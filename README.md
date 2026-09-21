@@ -4,12 +4,12 @@
 ### 🖥️ O programa pede o **tipo de imóvel**, o **consumo mensal de água** e envia uma mensagem informando se o consumo de água está sendo econômico, padrão ou excessivo.
 ---
 ## 🧮 Fórmulas utilizadas no programa:
-### Se o **imóvel** for **comercial** = Consulte o plano corporativo!
-### Se o **imóvel** for **apartamento** e o consumo for menor que 10m³ = Consumo econômico,  
-### se o consumo for menor ou igual a 25m³ = Dentro do padrão,  
-### senão = Consumo excessivo!
-### Se o **imóvel** for **casa** e o consumo for menor ou igual a 25m³ = Dentro do padrão,  
-### senão = Consumo excessivo!
+### 🏪 Se o **imóvel** for **comercial** = Consulte o plano corporativo!
+### 🏬 Se o **imóvel** for **apartamento** e o consumo for menor que 10m³ = Consumo econômico,  
+### 🚿 Se o consumo for menor ou igual a 25m³ = Dentro do padrão,  
+### 🚿 Senão = Consumo excessivo!
+### 🏠 Se o **imóvel** for **casa** e o consumo for menor ou igual a 25m³ = Dentro do padrão,  
+### 🚿 Senão = Consumo excessivo!
 ---
 ## 🌐 Tecnologias utilizadas:
 <div align=left style="display: inline_block"><br>
